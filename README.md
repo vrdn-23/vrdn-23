@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm currently a graduate student at LTI, CMU pursuing a Master's in NLP/ML/DL. 
+
+You can checkout details about the kind of work I do [here](https://sourcerer.io/vrdn-23).
+
 <!--
 **vrdn-23/vrdn-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
