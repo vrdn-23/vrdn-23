@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently a Machine Learning Engineer at Cisco.
+I'm currently a Senior Machine Learning Engineer at Cisco.
 I was previously a graduate student at LTI, CMU pursuing a Master's in NLP/ML/DL. 
 
 <!--
